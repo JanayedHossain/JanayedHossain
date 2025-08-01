@@ -1,6 +1,6 @@
 <!-- Animated Header SVG -->
 <p align="center">
-  <img width="100%" alt="wave header" src="https://raw.githubusercontent.com/JanayedHossain/JanayedHossain/main/assets/animated-header.svg" />
+  <img width="100%" alt="wave header" src="https://i.ibb.co/7dQxZ9SL/Janayed-Hossain-1.png" />
 </p>
 
 <h1 align="center">Hi, I'm Janayed Hossain 👋</h1>
