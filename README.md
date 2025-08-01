@@ -61,7 +61,7 @@ I'm **Janayed Hossain**, a Web / Frontend Developer who loves creating **modern,
   <a href="https://github.com/JanayedHossain" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Follow-black?logo=github&style=for-the-badge" />
   </a>
-  <a href="junayedhossain603@gmail.com " target="_blank">
+  <a href="mailto:junayedhossain603@gmail.com " target="_blank">
     <img alt="Email" src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://janayed-hossain.netlify.app" target="_blank">
