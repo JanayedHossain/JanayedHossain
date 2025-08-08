@@ -17,6 +17,13 @@ I'm **Janayed Hossain**, a Web / Frontend Developer who loves creating **modern,
 
 ---
 
+## 📌 Current Activities
+- 🌱 Currently learning **Next.js**  
+- 💼 Developed **Jobtica - Employee Management Website**  
+
+
+---
+
 ## 🛠 Tech Stack
 
 <p align="center">
